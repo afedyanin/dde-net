@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DdeNet</id>
+    <title>Dynamic Data Exchange(DDE) for .NET</title>
+    <version>1.0.0</version>
+    <authors>Rootzid</authors>
+    <owners>Rootzid</owners>
+    <description>This library provides a convenient and easy way to integrate .NET applications with legacy applications that use Dynamic Data Exchange (DDE)</description>
+    <releaseNotes>Based on NDde project: https://ndde.codeplex.com/</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <language>en-US</language>
+    <projectUrl>https://github.com/rootzid/dde-net</projectUrl>
+    <tags>dde</tags>
+  </metadata>
+  <files>
+    <file src="bin\DdeNet.dll" target="lib\net45" />
+  </files>
+</package>
